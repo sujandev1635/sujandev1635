@@ -6,7 +6,7 @@
 ### Learn About Sujan Pramanik ❤️
 <img src="https://media.licdn.com/dms/image/D5616AQEu71VJfhnGMA/profile-displaybackgroundimage-shrink_350_1400/0/1684440250502?e=1689811200&v=beta&t=QAKsGit8KwUY9tyR0lwLE1S-IXiL_zCAkqv2vnpdoAQ" title="profile image">
 
-## My Work Experience:
+# My Work Experience:
 
 
 - ☕ Built Site for Starbucks of Trinidad & Tobago.
@@ -16,7 +16,7 @@
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
 
-## What can i do?
+# What can i do?
 
 - 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
@@ -28,7 +28,7 @@
 - 🔨 Convert graphic designs to usable web images using React JS.
 
 
-## Reach Sujon
+# Reach Sujon
 - 📫How to reach me: [LinkedIn ](https://www.linkedin.com/feed/?trk=404_page)
 - 😄 Pronouns: Him/He
 
