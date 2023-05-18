@@ -1,6 +1,6 @@
 ### Hi People. Welcome To Sujan Github. 👋
 
-#### Anonymous boy stucked in the world of Developers🙋💃
+#### The anonymous boy stuck in the World of Developers🙋💃
 
 
 ### Learn About Sujan Pramanik ❤️
