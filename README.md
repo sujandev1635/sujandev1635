@@ -30,7 +30,7 @@
 
 ## Reach Sujon
 - 📫How to reach me: [LinkedIn ](https://www.linkedin.com/feed/?trk=404_page)
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: Her/He
 
 <!--
 **sujandev1635/sujandev1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
