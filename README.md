@@ -29,8 +29,8 @@
 
 
 ## Reach Sujon
-- 📫How to reach me: [LinkedIn ][(https://www.linkedin.com/feed/?trk=404_page)]
-- [google](https://www.google.com/)
+- 📫How to reach me: [LinkedIn ](https://www.linkedin.com/feed/?trk=404_page)
+- [LinkedIn](https://www.google.com/)
 - 😄 Pronouns: Her/She
 
 <!--
