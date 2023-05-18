@@ -1,4 +1,4 @@
-### Hi People. Welcome To Sujan Github. 👋
+### Hi People, Welcome To Sujan Github. 👋
 
 #### The anonymous boy stuck in the World of Developers🙋💃
 
