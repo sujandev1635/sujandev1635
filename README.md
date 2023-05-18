@@ -4,7 +4,7 @@
 
 
 ### Learn About Sujan Pramanik ❤️
-.[/images/sujon.jpg](https://media.licdn.com/dms/image/D5616AQHuMkIbiELNjQ/profile-displaybackgroundimage-shrink_350_1400/0/1684439893495?e=1689811200&v=beta&t=6CwyiFDPUae1HB6BrbWfxsbB2Z__i6DYBGyL-pURHCo)
+.(https://media.licdn.com/dms/image/D5616AQHuMkIbiELNjQ/profile-displaybackgroundimage-shrink_350_1400/0/1684439893495?e=1689811200&v=beta&t=6CwyiFDPUae1HB6BrbWfxsbB2Z__i6DYBGyL-pURHCo)
 
 
 <!--
