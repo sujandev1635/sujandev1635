@@ -27,6 +27,11 @@
 - 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
 - 🔨 Convert graphic designs to usable web images using React JS.
 
+
+## Reach Sujon
+- 📫How to reach me: [Linked In ][[https://www.facebook.com/](https://www.linkedin.com/feed/?trk=404_page)]
+- 😄 Pronouns: Her/She
+
 <!--
 **sujandev1635/sujandev1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
