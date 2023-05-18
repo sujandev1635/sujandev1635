@@ -4,8 +4,7 @@
 
 
 ### Learn About Sujan Pramanik ❤️
-.(https://media.licdn.com/dms/image/D5616AQHuMkIbiELNjQ/profile-displaybackgroundimage-shrink_350_1400/0/1684439893495?e=1689811200&v=beta&t=6CwyiFDPUae1HB6BrbWfxsbB2Z__i6DYBGyL-pURHCo)
-
+<img src="https://media.licdn.com/dms/image/D5616AQHuMkIbiELNjQ/profile-displaybackgroundimage-shrink_350_1400/0/1684439893495?e=1689811200&v=beta&t=6CwyiFDPUae1HB6BrbWfxsbB2Z__i6DYBGyL-pURHCo" widht="400" title="profile image">
 
 <!--
 **sujandev1635/sujandev1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
