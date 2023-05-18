@@ -30,7 +30,7 @@
 
 ## Reach Sujon
 - 📫How to reach me: [LinkedIn ][(https://www.linkedin.com/feed/?trk=404_page)]
-- automatik link:https://www.google.com/
+- [google](https://www.google.com/)
 - 😄 Pronouns: Her/She
 
 <!--
