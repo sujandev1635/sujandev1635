@@ -29,7 +29,7 @@
 
 
 ## Reach Sujon
-- 📫How to reach me: [LinkedIn ](https://www.linkedin.com/feed/?trk=404_page)
+- 📫How to reach me: [LinkedIn ](https://www.linkedin.com/in/sujanpramanik/)
 - 😄 Pronouns: Him/He
 
 <!--
