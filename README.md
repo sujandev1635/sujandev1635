@@ -4,7 +4,7 @@
 
 
 ### Learn About Sujan Pramanik ❤️
-<img src="https://media.licdn.com/dms/image/D5616AQGPOMdSzKLEwg/profile-displaybackgroundimage-shrink_350_1400/0/1684660971684?e=1690416000&v=beta&t=dy7k-vnVzT_RXSo32F1_mQlZUGOipXbMLlG_QUPEsMI" title="profile image" widht="600" height="200">
+<img src="https://media.licdn.com/dms/image/D5616AQGPOMdSzKLEwg/profile-displaybackgroundimage-shrink_350_1400/0/1684660971684?e=1690416000&v=beta&t=dy7k-vnVzT_RXSo32F1_mQlZUGOipXbMLlG_QUPEsMI" title="profile image">
 
 ## My Work Experience:
 
