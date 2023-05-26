@@ -7,7 +7,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGPOMdSzKLEwg/profile-displaybackgroundimage-shrink_350_1400/0/1684660971684?e=1690416000&v=beta&t=dy7k-vnVzT_RXSo32F1_mQlZUGOipXbMLlG_QUPEsMI" title="profile image">
 ## Olá! Eu sou o Matheus Fraga 🖐️
 
-[![LinkedIn](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujandev.xyz/)](https://sujandev.xyz/)
+[![LinkedIn](https://img.shields.io/website?label=sujandev.xyz&style=for-the-badge&url=https://sujandev.xyz/)](https://sujandev.xyz/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
