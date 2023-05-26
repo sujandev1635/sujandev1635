@@ -35,7 +35,8 @@
 
 
 ## ☠️Programming Skillsl?
-https://github-readme-stats.vercel.app/api/top-langs/?sujandev1635={sujandev1635}&theme=blue-green
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Reach Sujon
