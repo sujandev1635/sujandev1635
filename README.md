@@ -34,7 +34,7 @@
 
 
 
-## ☠️![image](https://github.com/sujandev1635/sujandev1635/assets/122740330/97f873f4-3e4e-45be-b642-2df2c7a26e88)Programming Skills?
+## ☠️Programming Skills?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
