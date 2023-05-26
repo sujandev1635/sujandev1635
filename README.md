@@ -30,7 +30,7 @@
 
 
 ## Programming Skillsl?
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?sujandev1635={sujandev1635}&theme=blue-green
 
 
 ## Reach Sujon
