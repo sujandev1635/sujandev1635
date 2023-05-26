@@ -11,7 +11,7 @@
 
 
 
-## My Work Experience:
+## 👨‍💻My Work Experience:
 
 
 - ☕ Built Site for Starbucks of Trinidad & Tobago.
@@ -21,7 +21,7 @@
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
 
-## What can i do?
+## 🤷‍♂️What can i do?
 
 - 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
@@ -34,7 +34,7 @@
 
 
 
-## ☠️Programming Skills?
+## 🧑‍💻Programming Skills?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
