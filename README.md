@@ -7,7 +7,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGPOMdSzKLEwg/profile-displaybackgroundimage-shrink_350_1400/0/1684660971684?e=1690416000&v=beta&t=dy7k-vnVzT_RXSo32F1_mQlZUGOipXbMLlG_QUPEsMI" title="profile image">
 
 ## Social Contract ❤️🖐️
-[![LinkedIn](https://img.shields.io/website?label=sujandev.xyz&style=for-the-badge&url=https://sujandev.xyz/)](https://sujandev.xyz/)
+[![LinkedIn](https://img.shields.io/website?label=www.sujandev.xyz&style=for-the-badge&url=https://sujandev.xyz/)](https://sujandev.xyz/)
 
 
 
