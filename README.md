@@ -28,6 +28,11 @@
 - 🔨 Convert graphic designs to usable web images using React JS.
 
 
+
+## Programming Skillsl?
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
+
 ## Reach Sujon
 - 📫How to reach me: [LinkedIn ](https://www.linkedin.com/in/sujanpramanik/)
 - 😄 Pronouns: Him/He
