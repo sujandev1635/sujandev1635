@@ -4,7 +4,7 @@
 
 
 ### Learn About Sujan Pramanik ❤️
-<img src="https://media.licdn.com/dms/image/D5616AQGd_fSbUBBIIQ/profile-displaybackgroundimage-shrink_350_1400/0/1695288459438?e=1700697600&v=beta&t=NIbV3Db7dpiKwgHo1hwVaJa5QysCf0t_g8wHE-HvIH8" title="profile image">
+<img src="https://media.licdn.com/dms/image/D5616AQGd_fSbUBBIIQ/profile-displaybackgroundimage-shrink_350_1400/0/1695288460029?e=1715817600&v=beta&t=l2DJ3dDHDIYQLrFu1c7eig2XrBhAacbtgWHqro5hfSk" title="profile image">
 
 ## Contract Info.. ❤️📶
 [![LinkedIn](https://img.shields.io/website?label=www.sujandev.xyz&style=for-the-badge&url=https://sujandev.xyz/)](https://sujandev.xyz/)
